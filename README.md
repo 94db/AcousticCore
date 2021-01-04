@@ -25,3 +25,7 @@ It is a software similar to Arta or CLIOwin (two really nice software), but with
 ## MEASUREMENT
 * Management of microphone input and measurement parameters (length),
 * Adjustable trigger system.
+
+
+
+Pierre-Antoine SAINZ
