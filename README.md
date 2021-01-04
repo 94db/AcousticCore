@@ -18,8 +18,7 @@ It is a software similar to Arta or CLIOwin (two really nice software), but with
 * Smoothing FFT by 1/1, 1/3, 1/6, 1/12, 1/24, 1/48 octave or no smoothing,
 * Cumulative Spectrogram.
 
-![Image of Yaktocat](http://sainz.acoustics.fr/img/impulseAnalyzer.png)
-
+<img src="http://sainz.acoustics.fr/img/impulseAnalyzer.png" width="500">
 
 
 ## AUDIO GENERATOR
